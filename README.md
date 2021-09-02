@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DragonSmore
+- 👋 Hi, I’m @NatMag
 - 👀 I’m interested in learning how to code and see how far I can push it
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on nothing at the moment
